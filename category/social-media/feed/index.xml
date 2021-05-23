@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>social media &#8211; Milena Majczak</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>SAAS Marketing Done the Right Way</description>
+	<lastBuildDate>Tue, 11 Aug 2020 10:58:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Why you need sentiment and text mining for social media analysis</title>
+		<link>./../../../2020/08/11/why-you-need-sentiment-and-text-mining-for-social-media-analysis/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-need-sentiment-and-text-mining-for-social-media-analysis</link>
+					<comments>./../../../2020/08/11/why-you-need-sentiment-and-text-mining-for-social-media-analysis/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2020 10:58:23 +0000</pubDate>
+				<category><![CDATA[social media]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=637</guid>
+
+					<description><![CDATA[<p>Social media channels provide a vast amount of data on your target audience interests and preferences. How to analyze it? Many companies that have already invested a lot of time and money in marketing campaigns are looking for the measurable ways of analyzing their efforts. Broad analysis can be done with the use of predictive &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../2020/08/11/why-you-need-sentiment-and-text-mining-for-social-media-analysis/index.html"> <span class="screen-reader-text">Why you need sentiment and text mining for social media analysis</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/11/why-you-need-sentiment-and-text-mining-for-social-media-analysis/index.html">Why you need sentiment and text mining for social media analysis</a> appeared first on <a rel="nofollow" href="./../../../index.html">Milena Majczak</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Social media channels provide a vast amount of data on your target audience interests and preferences. How to analyze it?</p>
+
+
+
+<p>Many companies that have already invested a lot of time and money in marketing campaigns are looking for the measurable ways of analyzing their efforts. Broad analysis can be done with the use of predictive analytics techniques such as text mining and opinion mining.</p>
+
+
+
+<h3>What is the sentiment/ opinion mining </h3>
+
+
+
+<p>In the short text, mining is all about deriving high- quality information from the text. At first, the program structures the input text, then derives patterns within the structured data in order to evaluate and interpret the output. Sentiment Mining also referred to Sentiment Analysis which is part of the text mining, is about extracting the opinions or sentiments given in a piece of text using IR, AI and NLP techniques. This provides a great source of unstructured information (especially opinions) that may be useful to others.</p>
+
+
+
+<p>How can sentiment and text mining tools help your company to grow?</p>
+
+
+
+<h3>Planning your marketing and social media campaign</h3>
+
+
+
+<p>Getting information about what your clients like, what they tend to follow in a fast and concise way will help you to adjust marketing strategies and plan your social media campaign accordingly. Early-adopter organizations in industries such as consumer goods, healthcare/pharmaceutical, retail, hospitality, and government are already successfully leveraging the practice to get closer to their customers-and add distance between themselves and their competition.</p>
+
+
+
+<h3>Text mining enables you to be more efficient</h3>
+
+
+
+<p>With no doubts you can make the analysing process faster. Saving time means also saving money. With the text mining tools you can analyze thousands of texts. It simply shortens the time required to analyze the corpus to identify sources relevant for the particular problem.</p>
+
+
+
+<h3>Search Engine Optimization</h3>
+
+
+
+<p>By tracking the most frequent words in your website, text mining can help you with search engine optimization. With this, the tool called extraction can help. It enables to extract keywords from the text which identifies the nature of the text.</p>
+
+
+
+<h3>Predicting other people’s decisions</h3>
+
+
+
+<p>Given the data, the text mining program can help you to predict how the customers are likely to behave. Text mining can help to answer the question about what customers are likely to choose and how far can predict their choices.</p>
+
+
+
+<h3>Tracking opinions over time</h3>
+
+
+
+<p>Opinions can be extracted with a time stamp and/or location. We can then analyze changes to opinions about the same event over time, and other statistics. The impact of an entity or event on the overall sentiment about an entity or another event, over the course of time can be also measured.</p>
+
+
+
+<p>What do you think? Are text mining tools a useful tool for content and social media marketers?</p>
+<p>The post <a rel="nofollow" href="./../../../2020/08/11/why-you-need-sentiment-and-text-mining-for-social-media-analysis/index.html">Why you need sentiment and text mining for social media analysis</a> appeared first on <a rel="nofollow" href="./../../../index.html">Milena Majczak</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2020/08/11/why-you-need-sentiment-and-text-mining-for-social-media-analysis/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
